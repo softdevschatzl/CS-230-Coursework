@@ -11,7 +11,7 @@ technical specifications and the rationale behind design choices stand out, maki
 
 ## Value of the Design Document in Development
 Working through the design document proved invaluable for coding. It served as a roadmap, outlining the system's architecture and interactions, which streamlined the development process. The
-document helped and anticipate challenges and design solutions upfront, reducing the need for significant changes during development.
+document helped anticipate challenges and design solutions upfront, reducing the need for significant changes during development.
 
 ## Area for Improvement
 If I were the revise the documentation, I would focus on enhancing the user experience design section. Although functional, incorporating more user feedback and iterative design could have 
